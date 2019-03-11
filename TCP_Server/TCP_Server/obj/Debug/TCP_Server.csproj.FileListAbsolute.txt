@@ -1,0 +1,5 @@
+D:\ZhaoPrograms\Unity_Person\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+D:\ZhaoPrograms\Unity_Person\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+D:\ZhaoPrograms\Unity_Person\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csprojResolveAssemblyReference.cache
+D:\ZhaoPrograms\Unity_Person\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+D:\ZhaoPrograms\Unity_Person\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb

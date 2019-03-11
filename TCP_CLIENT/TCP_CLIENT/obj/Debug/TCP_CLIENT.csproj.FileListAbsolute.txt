@@ -1,0 +1,5 @@
+D:\ZhaoPrograms\Unity_Person\TCP_CLIENT\TCP_CLIENT\bin\Debug\TCP_CLIENT.exe
+D:\ZhaoPrograms\Unity_Person\TCP_CLIENT\TCP_CLIENT\bin\Debug\TCP_CLIENT.pdb
+D:\ZhaoPrograms\Unity_Person\TCP_CLIENT\TCP_CLIENT\obj\Debug\TCP_CLIENT.csprojResolveAssemblyReference.cache
+D:\ZhaoPrograms\Unity_Person\TCP_CLIENT\TCP_CLIENT\obj\Debug\TCP_CLIENT.exe
+D:\ZhaoPrograms\Unity_Person\TCP_CLIENT\TCP_CLIENT\obj\Debug\TCP_CLIENT.pdb
