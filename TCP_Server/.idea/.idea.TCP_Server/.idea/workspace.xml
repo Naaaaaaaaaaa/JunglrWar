@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cde045d4-d505-4e71-8806-6bc1d7390a40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TCP_Server/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TCP_Server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/TCP_Server/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
-              <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
               <folding>
                 <marker date="1552297924603" expanded="true" signature="6:76" ph="..." />
                 <marker date="1552297924603" expanded="true" signature="98:4293" ph="{...}" />
@@ -148,12 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552289316728</updated>
-      <workItem from="1552289322444" duration="6150000" />
+      <workItem from="1552289322444" duration="6898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6150000" />
+    <option name="totallyTimeSpent" value="6898000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -166,7 +158,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -224,7 +215,7 @@
     <entry file="file://$PROJECT_DIR$/TCP_Server/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
-          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
           <folding>
             <marker date="1552297924603" expanded="true" signature="6:76" ph="..." />
             <marker date="1552297924603" expanded="true" signature="98:4293" ph="{...}" />
