@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26c28451-24dd-4c85-b1e6-6db35e103e41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TCP_CLIENT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TCP_CLIENT/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_CLIENT/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_CLIENT/TCP_CLIENT.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/TCP_CLIENT.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_Server/.idea/.idea.TCP_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/.idea/.idea.TCP_Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,21 +26,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TCP_CLIENT/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="85">
+              <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
               <folding>
-                <marker date="1552297745211" expanded="true" signature="6:57" ph="..." />
-                <marker date="1552297745211" expanded="true" signature="98:1083" ph="{...}" />
-                <marker date="1552297745211" expanded="true" signature="127:1081" ph="{...}" />
-                <marker date="1552297745211" expanded="true" signature="180:1075" ph="{...}" />
-                <marker date="1552297745211" expanded="true" signature="331:391" ph="/* 注意！ ... */" />
-                <marker date="1552297745211" expanded="true" signature="728:995" ph="{...}" />
-                <marker date="1552297745211" expanded="true" signature="817:919" ph="{...}" />
-                <marker date="1552297745211" expanded="true" signature="997:1065" ph="/* Console.ReadKey(); ... */" />
+                <marker date="1552319268197" expanded="false" signature="6:76" ph="..." />
+                <marker date="1552319268197" expanded="true" signature="98:1561" ph="{...}" />
+                <marker date="1552319268197" expanded="true" signature="127:1559" ph="{...}" />
+                <marker date="1552319268197" expanded="true" signature="180:1553" ph="{...}" />
+                <marker date="1552319268197" expanded="true" signature="331:391" ph="/* 注意！ ... */" />
+                <marker date="1552319268197" expanded="true" signature="704:1085" ph="/* while (true) ... */" />
+                <marker date="1552319268197" expanded="true" signature="1127:1221" ph="{...}" />
+                <marker date="1552319268197" expanded="true" signature="1235:1476" ph="/* 分包：当一个数据包太大的时候，tcp会把这条数据分成多个包 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <folding>
+                <marker date="1552319330607" expanded="true" signature="6:51" ph="..." />
+                <marker date="1552319330607" expanded="true" signature="73:596" ph="{...}" />
+                <marker date="1552319330607" expanded="true" signature="99:594" ph="{...}" />
+                <marker date="1552319330607" expanded="true" signature="114:255" ph="///  ... " />
+                <marker date="1552319330607" expanded="true" signature="306:588" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,12 +68,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TCP_CLIENT/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/TCP_CLIENT/Program.cs" />
+        <option value="$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs" />
       </list>
     </option>
   </component>
@@ -61,10 +93,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TCP_CLIENT" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TCP_CLIENT" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TCP_CLIENT" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -118,11 +164,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552290266587</updated>
       <workItem from="1552290267983" duration="5421000" />
+      <workItem from="1552316156932" duration="2623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5421000" />
+    <option name="totallyTimeSpent" value="8044000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -137,20 +184,11 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" weight="0.32935154" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
@@ -158,19 +196,28 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32935154" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -183,19 +230,33 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <marker date="1552319330607" expanded="true" signature="6:51" ph="..." />
+            <marker date="1552319330607" expanded="true" signature="73:596" ph="{...}" />
+            <marker date="1552319330607" expanded="true" signature="99:594" ph="{...}" />
+            <marker date="1552319330607" expanded="true" signature="114:255" ph="///  ... " />
+            <marker date="1552319330607" expanded="true" signature="306:588" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TCP_CLIENT/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="85">
+          <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
           <folding>
-            <marker date="1552297745211" expanded="true" signature="6:57" ph="..." />
-            <marker date="1552297745211" expanded="true" signature="98:1083" ph="{...}" />
-            <marker date="1552297745211" expanded="true" signature="127:1081" ph="{...}" />
-            <marker date="1552297745211" expanded="true" signature="180:1075" ph="{...}" />
-            <marker date="1552297745211" expanded="true" signature="331:391" ph="/* 注意！ ... */" />
-            <marker date="1552297745211" expanded="true" signature="728:995" ph="{...}" />
-            <marker date="1552297745211" expanded="true" signature="817:919" ph="{...}" />
-            <marker date="1552297745211" expanded="true" signature="997:1065" ph="/* Console.ReadKey(); ... */" />
+            <marker date="1552319268197" expanded="false" signature="6:76" ph="..." />
+            <marker date="1552319268197" expanded="true" signature="98:1561" ph="{...}" />
+            <marker date="1552319268197" expanded="true" signature="127:1559" ph="{...}" />
+            <marker date="1552319268197" expanded="true" signature="180:1553" ph="{...}" />
+            <marker date="1552319268197" expanded="true" signature="331:391" ph="/* 注意！ ... */" />
+            <marker date="1552319268197" expanded="true" signature="704:1085" ph="/* while (true) ... */" />
+            <marker date="1552319268197" expanded="true" signature="1127:1221" ph="{...}" />
+            <marker date="1552319268197" expanded="true" signature="1235:1476" ph="/* 分包：当一个数据包太大的时候，tcp会把这条数据分成多个包 ... */" />
           </folding>
         </state>
       </provider>

@@ -23,7 +23,7 @@ namespace TCP_Server
             Socket serverSocket = new Socket(AddressFamily.InterNetwork,
                 SocketType.Stream, ProtocolType.Tcp);
             
-            IPAddress ipAddress = IPAddress.Parse("192.168.2.177");
+            IPAddress ipAddress = IPAddress.Parse("192.168.0.108");
             IPEndPoint ipEndPoint = new IPEndPoint(ipAddress, 1234);
             
             //注意！
