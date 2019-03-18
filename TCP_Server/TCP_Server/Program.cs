@@ -23,8 +23,8 @@ namespace TCP_Server
             Socket serverSocket = new Socket(AddressFamily.InterNetwork,
                 SocketType.Stream, ProtocolType.Tcp);
             
-            IPAddress ipAddress = IPAddress.Parse("192.168.0.108");
-            IPEndPoint ipEndPoint = new IPEndPoint(ipAddress, 1234);
+            IPAddress ipAddress = IPAddress.Parse("127.0.0.1");
+            IPEndPoint ipEndPoint = new IPEndPoint(ipAddress, 6666);
             
             //注意！
             //客户端是socket.connect()  服务端是socket.bind();
@@ -94,7 +94,7 @@ namespace TCP_Server
             Socket serverSocket = new Socket(AddressFamily.InterNetwork,
                 SocketType.Stream, ProtocolType.Tcp);
             
-            IPAddress ipAddress = IPAddress.Parse("192.168.2.177");
+            IPAddress ipAddress = IPAddress.Parse("192.168.2.178");
             IPEndPoint ipEndPoint = new IPEndPoint(ipAddress, 1234);
             
             //注意！

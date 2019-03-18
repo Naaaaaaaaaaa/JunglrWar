@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56680563-ccef-4bd0-ac5b-abe35cd37a8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JungleWar_Server/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JungleWar_Server/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JungleWar_Server/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JungleWar_Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JungleWar_Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JungleWar_Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JungleWar_Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JungleWar_Server/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JungleWar_Server/Server/Client.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JungleWar_Server/Server/MyServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JungleWar_Server/Tools/Message.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/.idea/.idea.TCP_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/.idea/.idea.TCP_Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/TCP_Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/TCP_Server.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JungleWar_Server/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="33" />
+              <folding>
+                <marker date="1552877889033" expanded="false" signature="6:44" ph="..." />
+                <marker date="1552877889033" expanded="true" signature="72:386" ph="{...}" />
+                <marker date="1552877889033" expanded="true" signature="101:384" ph="{...}" />
+                <marker date="1552877889033" expanded="true" signature="116:168" ph="/// 服务器 ... " />
+                <marker date="1552877889033" expanded="true" signature="256:378" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JungleWar_Server/Server/MyServer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+              <folding>
+                <marker date="1552895398432" expanded="false" signature="6:140" ph="..." />
+                <marker date="1552895398432" expanded="true" signature="175:4845" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="203:4843" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="218:276" ph="/// 服务器socket ... " />
+                <marker date="1552895398432" expanded="true" signature="330:384" ph="/// 客户端列表 ... " />
+                <marker date="1552895398432" expanded="true" signature="456:509" ph="/// IP地址 ... " />
+                <marker date="1552895398432" expanded="true" signature="560:613" ph="/// 端口地址 ... " />
+                <marker date="1552895398432" expanded="true" signature="793:848" ph="/// 发送消息容器 ... " />
+                <marker date="1552895398432" expanded="true" signature="903:958" ph="/// 接收消息容器 ... " />
+                <marker date="1552895398432" expanded="true" signature="1087:1135" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="1185:1294" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="1327:1565" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="1579:1633" ph="/// 开启服务器 ... " />
+                <marker date="1552895398432" expanded="true" signature="1667:1852" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="1866:1928" ph="/// 开始接收客户端socket ... " />
+                <marker date="1552895398432" expanded="true" signature="1962:2093" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="2107:2204" ph="/// 接收socket回调 ... " />
+                <marker date="1552895398432" expanded="true" signature="2257:2779" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="2793:2953" ph="/// 开始接收客户端消息 ... " />
+                <marker date="1552895398432" expanded="true" signature="3029:3351" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="3365:3458" ph="/// 接收消息回调 ... " />
+                <marker date="1552895398432" expanded="true" signature="3512:4386" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="3578:4158" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="3773:3879" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="4190:4376" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="4284:4362" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="4400:4454" ph="/// 关闭服务器 ... " />
+                <marker date="1552895398432" expanded="true" signature="4488:4543" ph="{...}" />
+                <marker date="1552895398432" expanded="true" signature="4557:4661" ph="/// 移除连接中断的client ... " />
+                <marker date="1552895398432" expanded="true" signature="4709:4837" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JungleWar_Server/Server/Client.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <marker date="1552898227556" expanded="false" signature="6:69" ph="..." />
+                <marker date="1552898227556" expanded="true" signature="104:1466" ph="{...}" />
+                <marker date="1552898227556" expanded="true" signature="130:1464" ph="{...}" />
+                <marker date="1552898227556" expanded="true" signature="286:306" ph="{...}" />
+                <marker date="1552898227556" expanded="true" signature="361:447" ph="{...}" />
+                <marker date="1552898227556" expanded="true" signature="476:702" ph="{...}" />
+                <marker date="1552898227556" expanded="true" signature="757:1243" ph="{...}" />
+                <marker date="1552898227556" expanded="true" signature="783:1110" ph="{...}" />
+                <marker date="1552898227556" expanded="true" signature="974:1039" ph="{...}" />
+                <marker date="1552898227556" expanded="true" signature="1142:1233" ph="{...}" />
+                <marker date="1552898227556" expanded="true" signature="1253:1309" ph="/// 关闭客户端连接 ... " />
+                <marker date="1552898227556" expanded="true" signature="1337:1458" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JungleWar_Server/Tools/Message.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+              <folding>
+                <marker date="1552898411438" expanded="false" signature="6:141" ph="..." />
+                <marker date="1552898411438" expanded="true" signature="176:1926" ph="{...}" />
+                <marker date="1552898411438" expanded="true" signature="203:1924" ph="{...}" />
+                <marker date="1552898411438" expanded="true" signature="316:416" ph="/* public void AddCount(int count) ... */" />
+                <marker date="1552898411438" expanded="true" signature="445:498" ph="{...}" />
+                <marker date="1552898411438" expanded="true" signature="530:589" ph="{...}" />
+                <marker date="1552898411438" expanded="true" signature="622:695" ph="{...}" />
+                <marker date="1552898411438" expanded="true" signature="705:758" ph="/// 解析数据 ... " />
+                <marker date="1552898411438" expanded="true" signature="806:1583" ph="{...}" />
+                <marker date="1552898411438" expanded="true" signature="895:1573" ph="{...}" />
+                <marker date="1552898411438" expanded="true" signature="1124:1475" ph="{...}" />
+                <marker date="1552898411438" expanded="true" signature="1496:1559" ph="{...}" />
+                <marker date="1552898411438" expanded="true" signature="1635:1918" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/JungleWar_Server/Tools/Message.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JungleWar_Server/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JungleWar_Server/Server/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JungleWar_Server/Server/MyServer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JungleWar_Server/Program.cs" />
+        <option value="$PROJECT_DIR$/JungleWar_Server/Server/Message.cs" />
+        <option value="$PROJECT_DIR$/JungleWar_Server/Server/MyServer.cs" />
+        <option value="$PROJECT_DIR$/JungleWar_Server/Server/Client.cs" />
+        <option value="$PROJECT_DIR$/JungleWar_Server/Tools/Message.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/JungleWar_Server/bin/Debug/JungleWar_Server.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JungleWar_Server/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/JungleWar_Server/JungleWar_Server.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56680563-ccef-4bd0-ac5b-abe35cd37a8c" name="Default Changelist" comment="" />
+      <created>1552877261513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552877261513</updated>
+      <workItem from="1552877262878" duration="2772000" />
+      <workItem from="1552880548801" duration="1710000" />
+      <workItem from="1552889553261" duration="5345000" />
+      <workItem from="1552897848570" duration="768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10595000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40200445" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32850778" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JungleWar_Server/Server/Message.cs" />
+    <entry file="file://$PROJECT_DIR$/JungleWar_Server/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <marker date="1552877889033" expanded="false" signature="6:44" ph="..." />
+            <marker date="1552877889033" expanded="true" signature="72:386" ph="{...}" />
+            <marker date="1552877889033" expanded="true" signature="101:384" ph="{...}" />
+            <marker date="1552877889033" expanded="true" signature="116:168" ph="/// 服务器 ... " />
+            <marker date="1552877889033" expanded="true" signature="256:378" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JungleWar_Server/Server/MyServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+          <folding>
+            <marker date="1552895398432" expanded="false" signature="6:140" ph="..." />
+            <marker date="1552895398432" expanded="true" signature="175:4845" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="203:4843" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="218:276" ph="/// 服务器socket ... " />
+            <marker date="1552895398432" expanded="true" signature="330:384" ph="/// 客户端列表 ... " />
+            <marker date="1552895398432" expanded="true" signature="456:509" ph="/// IP地址 ... " />
+            <marker date="1552895398432" expanded="true" signature="560:613" ph="/// 端口地址 ... " />
+            <marker date="1552895398432" expanded="true" signature="793:848" ph="/// 发送消息容器 ... " />
+            <marker date="1552895398432" expanded="true" signature="903:958" ph="/// 接收消息容器 ... " />
+            <marker date="1552895398432" expanded="true" signature="1087:1135" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="1185:1294" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="1327:1565" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="1579:1633" ph="/// 开启服务器 ... " />
+            <marker date="1552895398432" expanded="true" signature="1667:1852" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="1866:1928" ph="/// 开始接收客户端socket ... " />
+            <marker date="1552895398432" expanded="true" signature="1962:2093" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="2107:2204" ph="/// 接收socket回调 ... " />
+            <marker date="1552895398432" expanded="true" signature="2257:2779" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="2793:2953" ph="/// 开始接收客户端消息 ... " />
+            <marker date="1552895398432" expanded="true" signature="3029:3351" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="3365:3458" ph="/// 接收消息回调 ... " />
+            <marker date="1552895398432" expanded="true" signature="3512:4386" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="3578:4158" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="3773:3879" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="4190:4376" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="4284:4362" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="4400:4454" ph="/// 关闭服务器 ... " />
+            <marker date="1552895398432" expanded="true" signature="4488:4543" ph="{...}" />
+            <marker date="1552895398432" expanded="true" signature="4557:4661" ph="/// 移除连接中断的client ... " />
+            <marker date="1552895398432" expanded="true" signature="4709:4837" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JungleWar_Server/Server/Client.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <marker date="1552898227556" expanded="false" signature="6:69" ph="..." />
+            <marker date="1552898227556" expanded="true" signature="104:1466" ph="{...}" />
+            <marker date="1552898227556" expanded="true" signature="130:1464" ph="{...}" />
+            <marker date="1552898227556" expanded="true" signature="286:306" ph="{...}" />
+            <marker date="1552898227556" expanded="true" signature="361:447" ph="{...}" />
+            <marker date="1552898227556" expanded="true" signature="476:702" ph="{...}" />
+            <marker date="1552898227556" expanded="true" signature="757:1243" ph="{...}" />
+            <marker date="1552898227556" expanded="true" signature="783:1110" ph="{...}" />
+            <marker date="1552898227556" expanded="true" signature="974:1039" ph="{...}" />
+            <marker date="1552898227556" expanded="true" signature="1142:1233" ph="{...}" />
+            <marker date="1552898227556" expanded="true" signature="1253:1309" ph="/// 关闭客户端连接 ... " />
+            <marker date="1552898227556" expanded="true" signature="1337:1458" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JungleWar_Server/Tools/Message.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+          <folding>
+            <marker date="1552898411438" expanded="false" signature="6:141" ph="..." />
+            <marker date="1552898411438" expanded="true" signature="176:1926" ph="{...}" />
+            <marker date="1552898411438" expanded="true" signature="203:1924" ph="{...}" />
+            <marker date="1552898411438" expanded="true" signature="316:416" ph="/* public void AddCount(int count) ... */" />
+            <marker date="1552898411438" expanded="true" signature="445:498" ph="{...}" />
+            <marker date="1552898411438" expanded="true" signature="530:589" ph="{...}" />
+            <marker date="1552898411438" expanded="true" signature="622:695" ph="{...}" />
+            <marker date="1552898411438" expanded="true" signature="705:758" ph="/// 解析数据 ... " />
+            <marker date="1552898411438" expanded="true" signature="806:1583" ph="{...}" />
+            <marker date="1552898411438" expanded="true" signature="895:1573" ph="{...}" />
+            <marker date="1552898411438" expanded="true" signature="1124:1475" ph="{...}" />
+            <marker date="1552898411438" expanded="true" signature="1496:1559" ph="{...}" />
+            <marker date="1552898411438" expanded="true" signature="1635:1918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

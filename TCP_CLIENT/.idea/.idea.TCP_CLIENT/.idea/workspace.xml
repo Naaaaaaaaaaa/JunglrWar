@@ -2,18 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26c28451-24dd-4c85-b1e6-6db35e103e41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TCP_CLIENT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TCP_CLIENT/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/JungleWar_Server/Server/Client.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/JungleWar_Server/Server/MyServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/JungleWar_Server/Tools/Message.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TCP_CLIENT/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_CLIENT/TCP_CLIENT.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/TCP_CLIENT.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.csprojResolveAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_Server/.idea/.idea.TCP_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/.idea/.idea.TCP_Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/TCP_Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/TCP_Server.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.exe" afterDir="false" />
@@ -27,35 +45,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TCP_CLIENT/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+            <state relative-caret-position="323">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <marker date="1552319268197" expanded="false" signature="6:76" ph="..." />
-                <marker date="1552319268197" expanded="true" signature="98:1561" ph="{...}" />
-                <marker date="1552319268197" expanded="true" signature="127:1559" ph="{...}" />
-                <marker date="1552319268197" expanded="true" signature="180:1553" ph="{...}" />
-                <marker date="1552319268197" expanded="true" signature="331:391" ph="/* 注意！ ... */" />
-                <marker date="1552319268197" expanded="true" signature="704:1085" ph="/* while (true) ... */" />
-                <marker date="1552319268197" expanded="true" signature="1127:1221" ph="{...}" />
-                <marker date="1552319268197" expanded="true" signature="1235:1476" ph="/* 分包：当一个数据包太大的时候，tcp会把这条数据分成多个包 ... */" />
+                <marker date="1552877729626" expanded="false" signature="6:76" ph="..." />
+                <marker date="1552877729626" expanded="true" signature="98:1664" ph="{...}" />
+                <marker date="1552877729626" expanded="true" signature="127:1662" ph="{...}" />
+                <marker date="1552877729626" expanded="true" signature="180:1656" ph="{...}" />
+                <marker date="1552877729626" expanded="true" signature="331:391" ph="/* 注意！ ... */" />
+                <marker date="1552877729626" expanded="true" signature="724:1108" ph="{...}" />
+                <marker date="1552877729626" expanded="true" signature="844:907" ph="{...}" />
+                <marker date="1552877729626" expanded="true" signature="937:1039" ph="{...}" />
+                <marker date="1552877729626" expanded="true" signature="1134:1575" ph="/* 粘包：当一次性传送到服务器的数据太多时，tcp会把多条数据组合到一起变成一条数据 ... */" />
+                <marker date="1552877729626" expanded="true" signature="1578:1646" ph="/* Console.ReadKey(); ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="228">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
-                <marker date="1552319330607" expanded="true" signature="6:51" ph="..." />
+                <marker date="1552319330607" expanded="false" signature="6:51" ph="..." />
                 <marker date="1552319330607" expanded="true" signature="73:596" ph="{...}" />
                 <marker date="1552319330607" expanded="true" signature="99:594" ph="{...}" />
-                <marker date="1552319330607" expanded="true" signature="114:255" ph="///  ... " />
+                <marker date="1552319330607" expanded="true" signature="114:255" ph="/// 在传到服务器的数据前加上数据长度，占四位 ... " />
                 <marker date="1552319330607" expanded="true" signature="306:588" ph="{...}" />
               </folding>
             </state>
@@ -74,45 +94,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TCP_CLIENT/Program.cs" />
         <option value="$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs" />
+        <option value="$PROJECT_DIR$/TCP_CLIENT/Program.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="108" />
-    <option name="y" value="74" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TCP_CLIENT" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TCP_CLIENT" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TCP_CLIENT" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -165,11 +165,17 @@
       <updated>1552290266587</updated>
       <workItem from="1552290267983" duration="5421000" />
       <workItem from="1552316156932" duration="2623000" />
+      <workItem from="1552372261114" duration="2494000" />
+      <workItem from="1552527616966" duration="599000" />
+      <workItem from="1552876988298" duration="2147000" />
+      <workItem from="1552880584309" duration="591000" />
+      <workItem from="1552890076814" duration="2403000" />
+      <workItem from="1552897916718" duration="592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8044000" />
+    <option name="totallyTimeSpent" value="16870000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,10 +187,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -230,33 +236,35 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs">
+    <entry file="file://$PROJECT_DIR$/TCP_CLIENT/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="323">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <marker date="1552319330607" expanded="true" signature="6:51" ph="..." />
-            <marker date="1552319330607" expanded="true" signature="73:596" ph="{...}" />
-            <marker date="1552319330607" expanded="true" signature="99:594" ph="{...}" />
-            <marker date="1552319330607" expanded="true" signature="114:255" ph="///  ... " />
-            <marker date="1552319330607" expanded="true" signature="306:588" ph="{...}" />
+            <marker date="1552877729626" expanded="false" signature="6:76" ph="..." />
+            <marker date="1552877729626" expanded="true" signature="98:1664" ph="{...}" />
+            <marker date="1552877729626" expanded="true" signature="127:1662" ph="{...}" />
+            <marker date="1552877729626" expanded="true" signature="180:1656" ph="{...}" />
+            <marker date="1552877729626" expanded="true" signature="331:391" ph="/* 注意！ ... */" />
+            <marker date="1552877729626" expanded="true" signature="724:1108" ph="{...}" />
+            <marker date="1552877729626" expanded="true" signature="844:907" ph="{...}" />
+            <marker date="1552877729626" expanded="true" signature="937:1039" ph="{...}" />
+            <marker date="1552877729626" expanded="true" signature="1134:1575" ph="/* 粘包：当一次性传送到服务器的数据太多时，tcp会把多条数据组合到一起变成一条数据 ... */" />
+            <marker date="1552877729626" expanded="true" signature="1578:1646" ph="/* Console.ReadKey(); ... */" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TCP_CLIENT/Program.cs">
+    <entry file="file://$PROJECT_DIR$/TCP_CLIENT/MyUtil.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        <state relative-caret-position="228">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
-            <marker date="1552319268197" expanded="false" signature="6:76" ph="..." />
-            <marker date="1552319268197" expanded="true" signature="98:1561" ph="{...}" />
-            <marker date="1552319268197" expanded="true" signature="127:1559" ph="{...}" />
-            <marker date="1552319268197" expanded="true" signature="180:1553" ph="{...}" />
-            <marker date="1552319268197" expanded="true" signature="331:391" ph="/* 注意！ ... */" />
-            <marker date="1552319268197" expanded="true" signature="704:1085" ph="/* while (true) ... */" />
-            <marker date="1552319268197" expanded="true" signature="1127:1221" ph="{...}" />
-            <marker date="1552319268197" expanded="true" signature="1235:1476" ph="/* 分包：当一个数据包太大的时候，tcp会把这条数据分成多个包 ... */" />
+            <marker date="1552319330607" expanded="false" signature="6:51" ph="..." />
+            <marker date="1552319330607" expanded="true" signature="73:596" ph="{...}" />
+            <marker date="1552319330607" expanded="true" signature="99:594" ph="{...}" />
+            <marker date="1552319330607" expanded="true" signature="114:255" ph="/// 在传到服务器的数据前加上数据长度，占四位 ... " />
+            <marker date="1552319330607" expanded="true" signature="306:588" ph="{...}" />
           </folding>
         </state>
       </provider>

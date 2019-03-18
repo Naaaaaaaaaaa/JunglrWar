@@ -1,0 +1,5 @@
+D:\ZhaoPrograms\Unity_Person\ConnectToMySQL\ConnectToMySQL\bin\Debug\ConnectToMySQL.exe
+D:\ZhaoPrograms\Unity_Person\ConnectToMySQL\ConnectToMySQL\bin\Debug\ConnectToMySQL.pdb
+D:\ZhaoPrograms\Unity_Person\ConnectToMySQL\ConnectToMySQL\obj\Debug\ConnectToMySQL.csprojResolveAssemblyReference.cache
+D:\ZhaoPrograms\Unity_Person\ConnectToMySQL\ConnectToMySQL\obj\Debug\ConnectToMySQL.exe
+D:\ZhaoPrograms\Unity_Person\ConnectToMySQL\ConnectToMySQL\obj\Debug\ConnectToMySQL.pdb

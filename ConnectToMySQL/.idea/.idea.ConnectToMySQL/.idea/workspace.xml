@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17b685d5-10a9-4b79-a7ac-578c456b380c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConnectToMySQL/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConnectToMySQL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConnectToMySQL/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConnectToMySQL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConnectToMySQL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConnectToMySQL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConnectToMySQL/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConnectToMySQL/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/.idea/.idea.TCP_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/.idea/.idea.TCP_Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/TCP_Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/TCP_Server.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/bin/Debug/TCP_Server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server/TCP_Server/obj/Debug/TCP_Server.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConnectToMySQL/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1552874592060" expanded="true" signature="6:43" ph="..." />
+                <marker date="1552874592060" expanded="true" signature="69:1956" ph="{...}" />
+                <marker date="1552874592060" expanded="true" signature="98:1954" ph="{...}" />
+                <marker date="1552874592060" expanded="true" signature="151:1948" ph="{...}" />
+                <marker date="1552874592060" expanded="true" signature="369:820" ph="查询" />
+                <marker date="1552874592060" expanded="true" signature="571:797" ph="{...}" />
+                <marker date="1552874592060" expanded="false" signature="846:1379" ph="插入" />
+                <marker date="1552874592060" expanded="true" signature="869:1356" ph="/* string username = &quot;cwer&quot;;string password = &quot;lcker';delete from user;&quot;; ... */" />
+                <marker date="1552874592060" expanded="false" signature="1393:1609" ph="删除" />
+                <marker date="1552874592060" expanded="true" signature="1416:1586" ph="/* MySqlCommand cmd = new MySqlCommand(&quot;delete from user where id = @id&quot;, conn); ... */" />
+                <marker date="1552874592060" expanded="false" signature="1623:1867" ph="更新" />
+                <marker date="1552874592060" expanded="true" signature="1634:1844" ph="/* MySqlCommand cmd = new MySqlCommand(&quot;update user set password = @pwd where id = 14&quot;, conn); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ConnectToMySQL/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ConnectToMySQL/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConnectToMySQL" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConnectToMySQL" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ConnectToMySQL" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConnectToMySQL" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ConnectToMySQL" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/MySQL/Connector NET 8.0/Assemblies/v4.5.2/MySql.Data.dll" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConnectToMySQL/bin/Debug/ConnectToMySQL.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConnectToMySQL/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConnectToMySQL/ConnectToMySQL.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17b685d5-10a9-4b79-a7ac-578c456b380c" name="Default Changelist" comment="" />
+      <created>1552873929135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552873929135</updated>
+      <workItem from="1552873930687" duration="663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="663000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40200445" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32850778" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ConnectToMySQL/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1552874592060" expanded="true" signature="6:43" ph="..." />
+            <marker date="1552874592060" expanded="true" signature="69:1956" ph="{...}" />
+            <marker date="1552874592060" expanded="true" signature="98:1954" ph="{...}" />
+            <marker date="1552874592060" expanded="true" signature="151:1948" ph="{...}" />
+            <marker date="1552874592060" expanded="true" signature="369:820" ph="查询" />
+            <marker date="1552874592060" expanded="true" signature="571:797" ph="{...}" />
+            <marker date="1552874592060" expanded="false" signature="846:1379" ph="插入" />
+            <marker date="1552874592060" expanded="true" signature="869:1356" ph="/* string username = &quot;cwer&quot;;string password = &quot;lcker';delete from user;&quot;; ... */" />
+            <marker date="1552874592060" expanded="false" signature="1393:1609" ph="删除" />
+            <marker date="1552874592060" expanded="true" signature="1416:1586" ph="/* MySqlCommand cmd = new MySqlCommand(&quot;delete from user where id = @id&quot;, conn); ... */" />
+            <marker date="1552874592060" expanded="false" signature="1623:1867" ph="更新" />
+            <marker date="1552874592060" expanded="true" signature="1634:1844" ph="/* MySqlCommand cmd = new MySqlCommand(&quot;update user set password = @pwd where id = 14&quot;, conn); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

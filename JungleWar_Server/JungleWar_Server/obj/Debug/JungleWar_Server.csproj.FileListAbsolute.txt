@@ -1,0 +1,5 @@
+D:\ZhaoPrograms\Unity_Person\JungleWar_Server\JungleWar_Server\bin\Debug\JungleWar_Server.exe
+D:\ZhaoPrograms\Unity_Person\JungleWar_Server\JungleWar_Server\bin\Debug\JungleWar_Server.pdb
+D:\ZhaoPrograms\Unity_Person\JungleWar_Server\JungleWar_Server\obj\Debug\JungleWar_Server.csprojResolveAssemblyReference.cache
+D:\ZhaoPrograms\Unity_Person\JungleWar_Server\JungleWar_Server\obj\Debug\JungleWar_Server.exe
+D:\ZhaoPrograms\Unity_Person\JungleWar_Server\JungleWar_Server\obj\Debug\JungleWar_Server.pdb

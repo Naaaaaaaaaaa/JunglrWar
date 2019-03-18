@@ -2,18 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cde045d4-d505-4e71-8806-6bc1d7390a40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/MyUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQL/.idea/.idea.ConnectToMySQL/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/.idea/.idea.JungleWar_Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JungleWar_Server/JungleWar_Server/Server/MyServer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/.idea/.idea.TCP_CLIENT/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/TCP_CLIENT.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/TCP_CLIENT.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/bin/Debug/TCP_CLIENT.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_CLIENT/TCP_CLIENT/obj/Debug/TCP_CLIENT.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TCP_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TCP_Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_Server.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_Server.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TCP_Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_Server/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_Server/TCP_Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_Server/TCP_Server.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TCP_Server/bin/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_Server/bin/Debug/TCP_Server.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TCP_Server/bin/Debug/TCP_Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_Server/bin/Debug/TCP_Server.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TCP_Server/obj/Debug/TCP_Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_Server/obj/Debug/TCP_Server.exe" afterDir="false" />
@@ -30,25 +38,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TCP_Server/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="76" column="32" lean-forward="true" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+            <state relative-caret-position="-124">
+              <caret line="63" column="60" lean-forward="true" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
               <folding>
-                <marker date="1552316595862" expanded="false" signature="6:76" ph="..." />
-                <marker date="1552316595862" expanded="true" signature="98:4293" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="127:4291" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="145:201" ph="/// 接收消息的容器 ... " />
-                <marker date="1552316595862" expanded="true" signature="308:391" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="431:1392" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="744:804" ph="/* 注意！ ... */" />
-                <marker date="1552316595862" expanded="true" signature="927:1314" ph="/* socket.accept()  接收连接过来的客户端， 会返回客户端socket(同步的方式) ... */" />
-                <marker date="1552316595862" expanded="true" signature="1453:2093" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="2155:3029" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="2221:2801" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="2416:2522" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="2833:3019" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="2927:3005" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="3068:4285" ph="{...}" />
-                <marker date="1552316595862" expanded="true" signature="3381:3441" ph="/* 注意！ ... */" />
+                <marker date="1552876818716" expanded="true" signature="6:76" ph="..." />
+                <marker date="1552876818716" expanded="true" signature="98:4289" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="127:4287" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="145:201" ph="/// 接收消息的容器 ... " />
+                <marker date="1552876818716" expanded="true" signature="308:391" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="431:1388" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="740:800" ph="/* 注意！ ... */" />
+                <marker date="1552876818716" expanded="true" signature="923:1310" ph="/* socket.accept()  接收连接过来的客户端， 会返回客户端socket(同步的方式) ... */" />
+                <marker date="1552876818716" expanded="true" signature="1449:2089" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="2151:3025" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="2217:2797" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="2412:2518" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="2829:3015" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="2923:3001" ph="{...}" />
+                <marker date="1552876818716" expanded="false" signature="3064:4281" ph="{...}" />
+                <marker date="1552876818716" expanded="true" signature="3377:3437" ph="/* 注意！ ... */" />
               </folding>
             </state>
           </provider>
@@ -60,21 +68,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C9DB8DB-97CD-48CB-9281-9D2C676D7BD4/8e/8e3b736b/Socket.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TCP_Server/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/TCP_Server/MyServer.cs" />
+        <option value="$PROJECT_DIR$/TCP_Server/TCP_Server.csproj" />
         <option value="$PROJECT_DIR$/TCP_Server/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="108" />
-    <option name="y" value="74" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -84,31 +94,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TCP_Server" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TCP_Server" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TCP_Server" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/MySQL/Connector NET 8.0/Assemblies/v4.5.2/MySql.Data.dll" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -156,11 +153,15 @@
       <updated>1552289316728</updated>
       <workItem from="1552289322444" duration="6898000" />
       <workItem from="1552316080545" duration="2613000" />
+      <workItem from="1552372125836" duration="2885000" />
+      <workItem from="1552527412191" duration="2100000" />
+      <workItem from="1552614599549" duration="379000" />
+      <workItem from="1552875274345" duration="1367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9511000" />
+    <option name="totallyTimeSpent" value="16242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -173,8 +174,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -182,7 +184,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.40273038" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -221,27 +223,41 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TCP_Server/MyServer.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C9DB8DB-97CD-48CB-9281-9D2C676D7BD4/8e/8e3b736b/Socket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="605" column="6" selection-start-line="605" selection-start-column="6" selection-end-line="605" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCP_Server/TCP_Server.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TCP_Server/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="76" column="32" lean-forward="true" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+        <state relative-caret-position="-124">
+          <caret line="63" column="60" lean-forward="true" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
           <folding>
-            <marker date="1552316595862" expanded="false" signature="6:76" ph="..." />
-            <marker date="1552316595862" expanded="true" signature="98:4293" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="127:4291" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="145:201" ph="/// 接收消息的容器 ... " />
-            <marker date="1552316595862" expanded="true" signature="308:391" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="431:1392" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="744:804" ph="/* 注意！ ... */" />
-            <marker date="1552316595862" expanded="true" signature="927:1314" ph="/* socket.accept()  接收连接过来的客户端， 会返回客户端socket(同步的方式) ... */" />
-            <marker date="1552316595862" expanded="true" signature="1453:2093" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="2155:3029" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="2221:2801" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="2416:2522" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="2833:3019" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="2927:3005" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="3068:4285" ph="{...}" />
-            <marker date="1552316595862" expanded="true" signature="3381:3441" ph="/* 注意！ ... */" />
+            <marker date="1552876818716" expanded="true" signature="6:76" ph="..." />
+            <marker date="1552876818716" expanded="true" signature="98:4289" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="127:4287" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="145:201" ph="/// 接收消息的容器 ... " />
+            <marker date="1552876818716" expanded="true" signature="308:391" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="431:1388" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="740:800" ph="/* 注意！ ... */" />
+            <marker date="1552876818716" expanded="true" signature="923:1310" ph="/* socket.accept()  接收连接过来的客户端， 会返回客户端socket(同步的方式) ... */" />
+            <marker date="1552876818716" expanded="true" signature="1449:2089" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="2151:3025" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="2217:2797" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="2412:2518" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="2829:3015" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="2923:3001" ph="{...}" />
+            <marker date="1552876818716" expanded="false" signature="3064:4281" ph="{...}" />
+            <marker date="1552876818716" expanded="true" signature="3377:3437" ph="/* 注意！ ... */" />
           </folding>
         </state>
       </provider>
